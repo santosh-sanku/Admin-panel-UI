@@ -1,0 +1,8 @@
+.listed {
+  display: flex;
+  width: 100%;
+}
+
+.listContainered {
+  flex: 6;
+}
